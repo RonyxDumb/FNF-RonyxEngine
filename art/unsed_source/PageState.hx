@@ -13,3 +13,4 @@ class PageState extends MusicBeatState
 function clickplay()
 {
   FlxG.switchState(new OptionsMenu());
+}
