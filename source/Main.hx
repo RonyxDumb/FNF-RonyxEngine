@@ -3,6 +3,7 @@ package;
 import flixel.graphics.FlxGraphic;
 import flixel.FlxG;
 import flixel.FlxGame;
+//import flixel.TitleState;
 import flixel.FlxState;
 import openfl.Assets;
 import openfl.Lib;
@@ -87,6 +88,8 @@ class Main extends Sprite
 		#if html5
 		FlxG.autoPause = false;
 		FlxG.mouse.visible = false;
-		#end
+   		#end
+                //y'a know what? Hmlt5 don't work. Fuck yourself
+
 	}
 }
