@@ -11,7 +11,10 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
 ## Credits:
-* Ronyx - Ronyx Engine creator and adding thing in Psych
+* Ronyx - coder
+* Jsa010 :| - coder
+
+## Psych Engine Team
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
